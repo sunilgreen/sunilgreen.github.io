@@ -281,7 +281,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website title for Open Graph and Twitter Cards
   title = "My cool site"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "This is my digital briefcase 💼 This is not a portfolio, or a resume. This isn't for one industry. What I put on here shows all the skills I bring to the table."
+  description = "This is my digital briefcase 💼."
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 

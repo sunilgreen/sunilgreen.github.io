@@ -23,7 +23,7 @@
   title = "Sunil's Digital Briefcase"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "This is my digital briefcase 💼 This is not a portfolio, or a resume. This isn't for one industry. What I put on here shows all the skills I bring to the table."
+  description = "This is my digital briefcase 💼"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
@@ -181,7 +181,7 @@
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "This is my digital professional briefcase 💼. I think you'll find something interesting. If not, carry on :)"
+      subtitle = "This is my digital professional briefcase 💼. I think you'll find something interesting."
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true

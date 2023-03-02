@@ -4,7 +4,7 @@ baseURL = "http://example.org/"
 theme = "LoveIt"
 
 # website title
-title = "My New Hugo Site"
+title = "Sunil's 💼"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -21,31 +21,36 @@ languageName = "English"
 [menu]
   [[menu.main]]
     weight = 1
-    identifier = "posts"
-    # you can add extra information before the name (HTML format is supported), such as icons
+    identifier = "about"
     pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
-    url = "/posts/"
-    # title will be shown when you hover on this menu link
-    title = ""
+    name = "About 🙋‍♂️"
+    url = "/about/"
+    title = "About.Me"
   [[menu.main]]
     weight = 2
-    identifier = "tags"
+    identifier = "Tech"
     pre = ""
     post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
+    name = "Tech 💻"
+    url = "/tech/"
+    title = "Tech"
   [[menu.main]]
     weight = 3
-    identifier = "categories"
+    identifier = "civicsanded"
     pre = ""
     post = ""
-    name = "Categories"
-    url = "/categories/"
+    name = "Civics & Education 🏛️"
+    url = "/civicsanded/"
     title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "fun"
+    pre = ""
+    post = ""
+    name = "Fun 🎆"
+    url = "/fun/"
+    title = "Fun Stuff"
 
 # Markup related configuration in Hugo
 [markup]
