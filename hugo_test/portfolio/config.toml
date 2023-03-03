@@ -43,14 +43,6 @@ languageName = "English"
     name = "Civics & Education 🏛️"
     url = "/civicsanded/"
     title = ""
-  [[menu.main]]
-    weight = 4
-    identifier = "fun"
-    pre = ""
-    post = ""
-    name = "Fun 🎆"
-    url = "/fun/"
-    title = "Fun Stuff"
 
 # Markup related configuration in Hugo
 [markup]
