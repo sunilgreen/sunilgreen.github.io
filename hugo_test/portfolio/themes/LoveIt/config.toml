@@ -175,7 +175,7 @@
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = "https://media.licdn.com/dms/image/C4D03AQGKCTtdVy-ykA/profile-displayphoto-shrink_800_800/0/1658844676017?e=1683158400&v=beta&t=R52f5Ag9yoLq3hZhj3TgiUK_9vrxzW6wPWIS8WGQnvE"
+      avatarURL = "https://media.licdn.com/dms/image/C4D03AQGKCTtdVy-ykA/profile-displayphoto-shrink_800_800/0/1658844676017?e=2147483647&v=beta&t=PKAmYYFkffTsWI5BE08d6D65gDSl92MZaH4A45LXzxU"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
@@ -203,7 +203,7 @@
   [params.social]
     GitHub = "https://github.com/sunilgreen?tab=overview&from=2023-02-01&to=2023-02-27"
     Linkedin = "https://www.linkedin.com/in/sunil-green-798955162/"
-    Twitter = "https://twitter.com/SunilGreen1"
+    Twitter = ""
     Instagram = ""
     Facebook = ""
     Telegram = ""
