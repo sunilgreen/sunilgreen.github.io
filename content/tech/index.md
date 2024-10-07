@@ -6,7 +6,7 @@ date: 2023-02-27T01:17:06-05:00
    
    I have experience in a wide range of languages and have worked on a variety of different software projects, including GenAI products and services.
 
-   See my resume: [Sunil's Resume]()   
+   See my resume: [Sunil's Resume](https://drive.google.com/file/d/1H8VuaVsxczeCU2N2xiPXK5c4bK__YJ3n/view?usp=sharing)   
 
 
 # Notable Projects
