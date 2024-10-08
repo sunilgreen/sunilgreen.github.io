@@ -1,6 +1,5 @@
 ---
 title: "Civics & Education"
-date: 2023-02-27T01:17:06-05:00
 ---
 
 
